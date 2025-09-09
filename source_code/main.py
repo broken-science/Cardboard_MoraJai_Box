@@ -108,7 +108,7 @@ while True :
     sleep(1)
     px.fill((0,0,0))
     for i in range(13) :
-        px[i] = mj.hex_to_rgb(pico_tile_colours['B'])
+        px[i] = mj.hex_to_rgb(mj.tile_colours['B'])
         px.write()
         sleep(0.3)
     sleep(1)
