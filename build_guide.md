@@ -55,7 +55,7 @@ The code is written in MicroPython and runs on a Raspberry Pi Pico microcontroll
 13. Colour one side of your LED Diffusers with the black marker and glue them over each LED. Your box is now complete!
 
 ![The Pi Pico with all wires soldered. Yellow are button input, black is ground, green is NeoPixel Data, red is +5V](./Pico_wired.jpg)
-![Raspberry Pi Pico Pinout - make sure you only connect buttons and NeoPixels to green GPIO pins.](./Raspi_pinout.jpg)
+![Raspberry Pi Pico Pinout - make sure you only connect buttons and NeoPixels to green GPIO pins.](./Raspi_Pinout.jpg)
 
 ## How to load data to a Raspberry Pi Pico
 * I use the free program [Thonny](https://thonny.org) to save software to the Pico. It runs on Windows, Mac and Linux and comes built into Raspberry Pi OS if you have a 'full size' Pi.
